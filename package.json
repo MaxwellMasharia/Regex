@@ -1,0 +1,19 @@
+{
+  "name": "regex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxwellMasharia/Regex.git"
+  },
+  "author": "Max",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxwellMasharia/Regex/issues"
+  },
+  "homepage": "https://github.com/MaxwellMasharia/Regex#readme"
+}
